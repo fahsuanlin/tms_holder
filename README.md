@@ -5,3 +5,4 @@ We present a transcranial magnetic stimulation (TMS) holder for concurrent TMS-M
 
 The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 
+![](https://github.com/fahsuanlin/tms_holder/blob/main/images/bs_fig1_blur.png)
