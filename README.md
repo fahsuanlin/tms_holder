@@ -8,7 +8,7 @@ The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 #### A. The design of the TMS coil holder for TMS-MRI experiments. B.  The experimental setup of TMS-MRI with an MRI-compatible TMS coil, 8-channel MRI coil array, and coil holder. IPR: In-plane rotation joint. ODR: Omni-directional rotation joint. C. Three ways to place the TMS and MRI coils at the same locations and positions, illustrating the degree of freedom offered by the holder. D. An exemplary setup of two holders at the MRI. The empty Holder 2 can mount a TMS coil, MRI coil, supporting pad, or mirror.
 
 
-## Publication
+## Publications
 - US Provisional Patent No. 63/459,799
 - "Design of a holder for the improved maneuvering of the concurrent TMS-MRI setup", Hsin-Ju Lee, KJ Woudsma, Moh Ishraq, Fa-Hsuan Lin, *Brain Stimulation* (under review)
                                               
