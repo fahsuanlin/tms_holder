@@ -15,8 +15,8 @@ The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 - [Holder CAD file (STL)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.stl)
 - [Holder CAD file (eprt)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.eprt)
 
-
-[FIG. 1](https://github.com/fahsuanlin/tms_holder/blob/main/doc/fig1.pdf) shows a first perspective view of an example implementation of a multi-axis lockable positioning system.
+![](https://github.com/fahsuanlin/tms_holder/blob/main/images/fig1.pdf)
+[FIG. 1](https://github.com/fahsuanlin/tms_holder/blob/main/images/fig1.pdf) shows a first perspective view of an example implementation of a multi-axis lockable positioning system.
 FIG. 2 shows a second perspective view of an example implementation of a multi-axis lockable positioning system.
 FIG. 3 shows a third perspective view of an example implementation of a multi-axis lockable positioning system.
 FIG. 4 shows a first cutaway view of an example implementation of a multi-axis lockable positioning system, with a cut plane passing through an axis of a distal member that supports the distal functional component. 
