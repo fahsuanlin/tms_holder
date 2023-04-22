@@ -110,7 +110,10 @@ An eighth cutaway view of an example implementation of a multi-axis lockable pos
 <summary>FIG. 12</summary>
   
 ![](https://github.com/fahsuanlin/tms_holder/blob/main/images/fig12.png)
+
+</details>
 A ninth cutaway view of an example implementation of a multi-axis lockable positioning system, with a cut plane that lies parallel to a central axis of the intermediate arm. 
+
 
 <details>
 <summary>FIG. 13</summary>
