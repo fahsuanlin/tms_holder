@@ -115,6 +115,7 @@ A ninth cutaway view of an example implementation of a multi-axis lockable posit
 </details>
 A perspective view of an example implementation of a multi-axis lockable positioning system, showing both the external actuator of the locking mechanism and the distal functional component.
 
+  
 
 ## Publication
 - US Provisional Patent No. 63/459,799
