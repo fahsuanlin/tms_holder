@@ -12,5 +12,5 @@ The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 
 - Profiles of the holder can be found [here]() to illustrate the mechanisms of the joints. 
 
-- Profiles of the holder can be found [here]() to illustrate the mechanisms of the joints. 
-
+- [Holder CAD file (STL)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.stl)
+- [Holder CAD file (eprt)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.eprt)
