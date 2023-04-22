@@ -14,3 +14,7 @@ The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 
 - [Holder CAD file (STL)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.stl)
 - [Holder CAD file (eprt)](https://github.com/fahsuanlin/tms_holder/blob/main/doc/tms_holder.eprt)
+
+## Patent
+US Provisional Patent No. 63/459,799
+                                              
