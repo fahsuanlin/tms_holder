@@ -3,6 +3,8 @@ We present a transcranial magnetic stimulation (TMS) holder for concurrent TMS-M
 
 The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 
+Reference: ["Design of coil holder for the improved maneuvering in concurrent TMS-MRI",Hsin-Ju Lee, K.J. Woudsma, Mohammed F. Ishraq, Fa-Hsuan Lin, Brain Stimulation (2023), DOI:https://doi.org/10.1016/j.brs.2023.06.001](https://www.brainstimjrnl.com/article/S1935-861X(23)01793-X/fulltext?fbclid=IwAR1VfXAEGQGp13JYyyM1PucGZJ-qROwUHFg6AWeHB5Y-K7sUlzTWP2zzFBs). 
+
 ![](https://github.com/fahsuanlin/tms_holder/blob/main/images/bs_fig1_blur.png)
 
 #### A. The design of the TMS coil holder for TMS-MRI experiments. B.  The experimental setup of TMS-MRI with an MRI-compatible TMS coil, 8-channel MRI coil array, and coil holder. IPR: In-plane rotation joint. ODR: Omni-directional rotation joint. C. Three ways to place the TMS and MRI coils at the same locations and positions, illustrating the degree of freedom offered by the holder. D. An exemplary setup of two holders at the MRI. The empty Holder 2 can mount a TMS coil, MRI coil, supporting pad, or mirror.
