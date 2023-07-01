@@ -12,7 +12,7 @@ The current design is compatible with 3T MRI scanner from Siemens (Prisma).
 
 ## Publications
 - US Provisional Patent No. 63/459,799
-- "Design of a holder for the improved maneuvering of the concurrent TMS-MRI setup", Hsin-Ju Lee, KJ Woudsma, Moh Ishraq, Fa-Hsuan Lin, *Brain Stimulation* (under review)
+-  ["Design of coil holder for the improved maneuvering in concurrent TMS-MRI",Hsin-Ju Lee, K.J. Woudsma, Mohammed F. Ishraq, Fa-Hsuan Lin, Brain Stimulation (2023), DOI:10.1016/j.brs.2023.06.001](https://www.brainstimjrnl.com/article/S1935-861X(23)01793-X/fulltext?fbclid=IwAR1VfXAEGQGp13JYyyM1PucGZJ-qROwUHFg6AWeHB5Y-K7sUlzTWP2zzFBs)
                                               
 ## Documents
 
